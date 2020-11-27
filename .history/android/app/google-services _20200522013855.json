@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "679378136248",
+    "firebase_url": "https://se380finalproject-e9310.firebaseio.com",
+    "project_id": "se380finalproject-e9310",
+    "storage_bucket": "se380finalproject-e9310.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:679378136248:android:cd30e25c28501f60ee984d",
+        "android_client_info": {
+          "package_name": "com.anotherexamplese380"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "679378136248-lum3f0k509atldv74l3cl3tg0f64kg3r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC02NB4tJnkaMMWlJYnHpGOnZ9C9Na-27Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "679378136248-lum3f0k509atldv74l3cl3tg0f64kg3r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
